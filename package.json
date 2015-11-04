@@ -1,0 +1,59 @@
+{
+  "name": "tusimple-tree",
+  "version": "0.0.1",
+  "description": "tusimple-tree",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "~2.9.2",
+    "browser-sync-spa": "~1.0.2",
+    "chalk": "~1.1.1",
+    "del": "~2.0.1",
+    "eslint-plugin-angular": "~0.11.0",
+    "gulp": "~3.9.0",
+    "gulp-angular-filesort": "~1.1.1",
+    "gulp-autoprefixer": "~3.0.1",
+    "gulp-concat": "~2.5.0",
+    "gulp-eslint": "~1.0.0",
+    "gulp-filter": "~3.0.1",
+    "gulp-flatten": "~0.2.0",
+    "gulp-inject": "~1.5.0",
+    "gulp-load-plugins": "~0.10.0",
+    "gulp-minify-css": "~1.2.1",
+    "gulp-minify-html": "~1.0.4",
+    "gulp-ng-annotate": "~1.1.0",
+    "gulp-protractor": "~1.0.0",
+    "gulp-rename": "~1.2.2",
+    "gulp-replace": "~0.5.4",
+    "gulp-rev": "~6.0.1",
+    "gulp-rev-replace": "~0.4.2",
+    "gulp-sass": "~2.0.4",
+    "gulp-size": "~2.0.0",
+    "gulp-sourcemaps": "~1.5.2",
+    "gulp-uglify": "~1.4.0",
+    "gulp-useref": "~1.3.0",
+    "gulp-util": "~3.0.6",
+    "http-proxy-middleware": "~0.8.0",
+    "lodash": "~3.10.1",
+    "uglify-save-license": "~0.4.1",
+    "wrench": "~1.5.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenlihu/tusimple-tree.git"
+  },
+  "keywords": [
+    "angular",
+    "tree",
+    "tusimple"
+  ],
+  "author": "chenlihu madwiki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenlihu/tusimple-tree/issues"
+  },
+  "homepage": "https://github.com/chenlihu/tusimple-tree#readme"
+}
